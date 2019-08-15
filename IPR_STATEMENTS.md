@@ -11,6 +11,7 @@ https://github.com/ODF-Advocacy/odf-advocacy
 OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
 
 ## Open Services for Lifecycle Collaboration (OSLC) Open Project
+<a name="open-services-for-lifecycle-collaboration-oslc-open-project"></a>
 
 https://github.com/oslc-op/OSLC-admin
 
