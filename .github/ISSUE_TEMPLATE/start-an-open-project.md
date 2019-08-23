@@ -7,17 +7,19 @@ assignees: ''
 
 ---
 
-*Point of contact name:* 
+**Point of contact name:** 
 
-*Point of contact email address:*
+**Point of contact email address:**
 
-*OP proposed organization name:*  
+**OP proposed organization name:** 
 
-*OP proposed email address:* 
+**OP proposed shortname:**
 
-*Link to OP charter:*
+**OP proposed email address:** 
 
-*Resources requested for the OP:*
+**Link to OP charter:**
+
+**Resources requested for the OP:**
 
 - GitHub repositories:
 
