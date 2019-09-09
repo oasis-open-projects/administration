@@ -13,6 +13,13 @@ OASIS is not aware of any statements or declarations regarding IPR related to th
 ## Open Services for Lifecycle Collaboration (OSLC) Open Project
 <a name="open-services-for-lifecycle-collaboration-oslc-open-project"></a>
 
-https://github.com/oslc-op/OSLC-admin
+https://github.com/oslc-op/
 
 OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
+
+## Open Cybersecurity Alliance (OCA)
+
+https://github.com/opencybersecurityalliance
+
+OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
+
