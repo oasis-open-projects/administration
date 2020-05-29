@@ -27,3 +27,9 @@ OASIS is not aware of any statements or declarations regarding IPR related to th
 https://github.com/ethereum/oasis-open-project/
 
 OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
+
+## [Ethereum OASIS Baseline Open Project](#bas)
+
+https://github.com/ethereum-oasis/baseline
+
+OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
