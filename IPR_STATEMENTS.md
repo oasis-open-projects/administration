@@ -20,7 +20,7 @@ OASIS is not aware of any statements or declarations regarding IPR related to th
 
 https://github.com/opencybersecurityalliance
 
-OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
+The IPR statements page for OCA is now at https://github.com/opencybersecurityalliance/oca-admin/blob/master/IPR-STATEMENT.md.
 
 ## [Ethereum OASIS Open Project](#eth)
 
