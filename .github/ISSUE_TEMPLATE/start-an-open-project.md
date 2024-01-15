@@ -1,3 +1,5 @@
+These tickets are deprecated. TC Admin JIRA project should be used instead. For requesting a new OP set up, please contact OP-admin@oasis-open.org
+
 ---
 name: Start an Open Project
 about: Collect information needed to launch an Open Project
