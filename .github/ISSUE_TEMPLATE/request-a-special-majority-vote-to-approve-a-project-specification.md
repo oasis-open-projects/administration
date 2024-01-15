@@ -1,3 +1,6 @@
+These tickets are deprecated. TC Admin JIRA project should be used instead. For requesting a Special Majoriy Vote to approve a PS, please use https://www.oasis-open.org/project-administration-support-requests/form-request-a-special-majority-vote-to-approve-a-specification/
+
+
 ---
 name: Request a Special Majority Vote to approve a Project Specification
 about: Use to request that OP Admin hold a ballot to approve a release as a Project
